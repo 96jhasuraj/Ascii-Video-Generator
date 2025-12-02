@@ -1,5 +1,7 @@
-# AsciiVideoGenerator
-
+# Terminal Ascii Video Generator
+![3](https://github.com/user-attachments/assets/9dc3116e-4336-4558-82f5-67abd90d5899)
+App creates Frames offline 
+VideoPlayer reads those frames & runs it on terminal
 Idea is to generate a video with ascii characters with colors & brightness adusted according to original videos pixels. I use a producer - consumer pattern for synchronisation.
 
 Current Command : 
